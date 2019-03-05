@@ -1,0 +1,34 @@
+body{
+    background-image:url("https://media.istockphoto.com/vectors/lilac-pink-glitter-background-vector-vector-id877364100");
+    text-align:center;
+}
+h1{
+    color:black;
+    text-align:center;
+    font-weight:bold;
+}
+p{
+    color: red;
+    font-weight:bold;
+
+}
+h2{
+    color:black;
+    text-align:center;
+    font-weight:bold;
+}
+img{
+    height:190px;
+}
+.best{
+    font-family: 'Acme';
+    color:red;
+}
+.artist{
+    font-family: 'Shadows Into Light', cursive;
+    color:yellow;
+}
+.movie{
+    font-family: 'Dancing Script', cursive;
+    color:blue;
+}
